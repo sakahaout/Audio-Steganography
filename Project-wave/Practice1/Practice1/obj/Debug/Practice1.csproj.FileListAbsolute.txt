@@ -1,0 +1,20 @@
+D:\New folder\Practice1\Practice1\bin\Debug\Practice1.exe.config
+D:\New folder\Practice1\Practice1\bin\Debug\Practice1.exe
+D:\New folder\Practice1\Practice1\bin\Debug\Practice1.pdb
+D:\New folder\Practice1\Practice1\obj\Debug\Practice1.csproj.AssemblyReference.cache
+D:\New folder\Practice1\Practice1\obj\Debug\Practice1.Form1.resources
+D:\New folder\Practice1\Practice1\obj\Debug\Practice1.Properties.Resources.resources
+D:\New folder\Practice1\Practice1\obj\Debug\Practice1.csproj.GenerateResource.cache
+D:\New folder\Practice1\Practice1\obj\Debug\Practice1.csproj.CoreCompileInputs.cache
+D:\New folder\Practice1\Practice1\obj\Debug\Practice1.exe
+D:\New folder\Practice1\Practice1\obj\Debug\Practice1.pdb
+F:\DIU\ThesisProject\Project-wave\Project-wave\Practice1\Practice1\bin\Debug\Practice1.exe.config
+F:\DIU\ThesisProject\Project-wave\Project-wave\Practice1\Practice1\bin\Debug\Practice1.exe
+F:\DIU\ThesisProject\Project-wave\Project-wave\Practice1\Practice1\bin\Debug\Practice1.pdb
+F:\DIU\ThesisProject\Project-wave\Project-wave\Practice1\Practice1\obj\Debug\Practice1.csprojAssemblyReference.cache
+F:\DIU\ThesisProject\Project-wave\Project-wave\Practice1\Practice1\obj\Debug\Practice1.Form1.resources
+F:\DIU\ThesisProject\Project-wave\Project-wave\Practice1\Practice1\obj\Debug\Practice1.Properties.Resources.resources
+F:\DIU\ThesisProject\Project-wave\Project-wave\Practice1\Practice1\obj\Debug\Practice1.csproj.GenerateResource.cache
+F:\DIU\ThesisProject\Project-wave\Project-wave\Practice1\Practice1\obj\Debug\Practice1.csproj.CoreCompileInputs.cache
+F:\DIU\ThesisProject\Project-wave\Project-wave\Practice1\Practice1\obj\Debug\Practice1.exe
+F:\DIU\ThesisProject\Project-wave\Project-wave\Practice1\Practice1\obj\Debug\Practice1.pdb
